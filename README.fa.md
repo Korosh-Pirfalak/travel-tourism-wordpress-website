@@ -1,7 +1,5 @@
 <p align="center">
-
 🇮🇷 <strong>فارسی</strong> | 🇺🇸 <a href="./README.md">English</a>
-
 </p>
 
 <h1 align="center">🌍 وب‌سایت وردپرسی گردشگری</h1>
