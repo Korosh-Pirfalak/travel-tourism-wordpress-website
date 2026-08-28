@@ -1,6 +1,6 @@
 <p align="center">
 
-🇮🇷 <strong>فارسی</strong> | 🇺🇸 <a href="README.md">English</a>
+🇮🇷 <strong>فارسی</strong> | 🇺🇸 <a href="./README.md">English</a>
 
 </p>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="desktop-hero.png" alt="پیش‌نمایش وب‌سایت گردشگری" width="100%">
+  <img src="./screenshots/desktop-hero.png" alt="پیش‌نمایش وب‌سایت گردشگری" width="100%">
 
 </p>
 
@@ -78,7 +78,7 @@
 
 <p align="center">
 
-  <img src="desktop.png" alt="پیش‌نمایش دسکتاپ" width="90%">
+  <img src="./screenshots/desktop.png" alt="پیش‌نمایش دسکتاپ" width="90%">
 
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
 
-  <img src="tablet.png" alt="پیش‌نمایش تبلت" width="70%">
+  <img src="./screenshots/tablet.png" alt="پیش‌نمایش تبلت" width="70%">
 
 </p>
 
@@ -98,7 +98,7 @@
 
 <p align="center">
 
-  <img src="mobile.png" alt="پیش‌نمایش موبایل" width="35%">
+  <img src="./screenshots/mobile.png" alt="پیش‌نمایش موبایل" width="35%">
 
 </p>
 

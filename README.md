@@ -1,11 +1,11 @@
 <p align="center">
-  🇺🇸 <strong>English</strong> | 🇮🇷 <a href="README.fa.md">فارسی</a>
+  🇺🇸 <strong>English</strong> | 🇮🇷 <a href="./README.fa.md">فارسی</a>
 </p>
 
 <h1 align="center">🌍 Travel Tourism WordPress Website</h1>
 
 <p align="center">
-  <img src="desktop-hero.png" alt="Gardeshgar Tourism Website Preview" width="100%">
+  <img src="./screenshots/desktop-hero.png" alt="Gardeshgar Tourism Website Preview" width="100%">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ The project focuses on creating a professional visual presentation, responsive l
 ### 🖥️ Desktop
 
 <p align="center">
-  <img src="desktop.png" alt="Desktop Preview" width="90%">
+  <img src="./screenshots/desktop.png" alt="Desktop Preview" width="90%">
 </p>
 
 ---
@@ -75,7 +75,7 @@ The project focuses on creating a professional visual presentation, responsive l
 ### 📟 Tablet
 
 <p align="center">
-  <img src="tablet.png" alt="Tablet Preview" width="70%">
+  <img src="./screenshots/tablet.png" alt="Tablet Preview" width="70%">
 </p>
 
 ---
@@ -83,7 +83,7 @@ The project focuses on creating a professional visual presentation, responsive l
 ### 📱 Mobile
 
 <p align="center">
-  <img src="mobile.png" alt="Mobile Preview" width="35%">
+  <img src="./screenshots/mobile.png" alt="Mobile Preview" width="35%">
 </p>
 
 ---
