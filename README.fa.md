@@ -146,6 +146,8 @@
 
 ## 👨‍💻 سازنده
 
-**Korosh Pirfalak**
+<p dir="rtl" align="right">
+  <strong>Korosh Pirfalak</strong>
+</p>
 
 ⭐ اگر از این پروژه خوشتان آمد، می‌توانید به آن Star بدهید!
